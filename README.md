@@ -27,7 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorduc44&theme=dark&mode=weekly" alt="juniorduc44" /></p>
 
-
 <!---
 Juniorduc44/Juniorduc44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
