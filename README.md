@@ -5,7 +5,7 @@
 - 👋🏾 Hi, I’m Junior Ducatel
 - 🌱 I’m currently on a Path to Python. Along the way learning more about blockchain and smart contracts.
 - 💞️ I’m looking to collaborate where ever I can and hope to bring real value to the python and or blockchain world.
-- 👨🏿‍💻 Earlier this year I took to programming languages like python and so far solidity. I am only just less of a noob. For now!
+- 👨🏿‍💻 Earlier this year(2022) I took to programming languages like python and so far solidity. I am only just less of a noob. For now!
 - ⚡ Fun fact **The internet has been my teacher since Feb 2022. Wish me luck!**
 
 
